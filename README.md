@@ -20,13 +20,12 @@ This project intention to Predict different House type Prices in different state
     
 
 2. Include the every app URLconf in your project urls.py like this
-   `` bash
-	      urlpatterns = [
-				path('admin/', admin.site.urls),
-				path('',include('Deployment.urls')),
-			     ]
-    
-   ``
+   ``` bash
+	urlpatterns = [
+			path('admin/', admin.site.urls),
+			path('',include('Deployment.urls')),
+		      ]
+    ```
 
 3. Run ``python manage.py migrate`` to create the ``Deployment``  models.
 

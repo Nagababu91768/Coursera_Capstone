@@ -8,7 +8,7 @@ This project intention to Predict different House type Prices in different state
 ## Quick start
 
 
-1. Add ``webapp1``,``webapp2``,``webapp3`` to your INSTALLED_APPS setting like this::
+1. Add ``Deployment,widget_tweaks,crispy_forms`` to your INSTALLED_APPS setting like this::
     
     INSTALLED_APPS = [
     

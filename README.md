@@ -3,7 +3,7 @@
 
 This project intention to Predict different House type Prices in different states in AUS. This Model helps to Real estates to quickly predict house prices in AUS.
 
- ![reusable-Naga--Ml--Model--Apps-orange (1)](https://user-images.githubusercontent.com/92179722/136643724-61649ee7-76b5-4027-8066-eef510fd5d63.png)![status-stable-yellowgreen](https://user-images.githubusercontent.com/92179722/136643760-a592249d-5d9c-40d9-a5fe-a9a34898a988.png)![pypi-v0 0 (2)](https://user-images.githubusercontent.com/92179722/136643761-da4fbe5d-623e-4bcb-85d8-5949aad11a9f.png)![licience-MIT-green](https://user-images.githubusercontent.com/92179722/136643779-24feba85-bba1-4fdc-92ca-02b0013b6af0.png)
+ ![reusable-Naga--Ml--Model--Apps-orange (1)](https://user-images.githubusercontent.com/92179722/136643724-61649ee7-76b5-4027-8066-eef510fd5d63.png)  ![status-stable-yellowgreen](https://user-images.githubusercontent.com/92179722/136643760-a592249d-5d9c-40d9-a5fe-a9a34898a988.png)  ![pypi-v0 0 (2)](https://user-images.githubusercontent.com/92179722/136643761-da4fbe5d-623e-4bcb-85d8-5949aad11a9f.png)  ![licience-MIT-green](https://user-images.githubusercontent.com/92179722/136643779-24feba85-bba1-4fdc-92ca-02b0013b6af0.png)
 
 ## Quick start
 

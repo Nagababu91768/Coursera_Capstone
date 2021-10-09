@@ -3,7 +3,7 @@
 
 This project intention to Predict different House type Prices in different states in AUS. This Model helps to Real estates to quickly predict house prices in AUS.
  
-# Quick start
+## Quick start
 
 
 1. Add ``webapp1``,``webapp2``,``webapp3`` to your INSTALLED_APPS setting like this::
@@ -36,3 +36,6 @@ This project intention to Predict different House type Prices in different state
 
 5. Visit http://127.0.0.1:8000/ to 
 7. Detail documentation [click here](https://github.com/Nagababu91768/house-price-prediction-ml-app/blob/master/README.md)
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)

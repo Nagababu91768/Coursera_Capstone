@@ -31,8 +31,8 @@ This project intention to Predict different House type Prices in different state
    - create a admin 
    	-- python manage.py createsuperuser
 
-5. Visit http://127.0.0.1:8000/ to 
-7. Detail documentation [click here](https://github.com/Nagababu91768/house-price-prediction-ml-app/blob/master/README.md)
+5. Visit http://127.0.0.1:8000/ for homepage
+6. Detail documentation [click here](https://github.com/Nagababu91768/house-price-prediction-ml-app/blob/master/README.md)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

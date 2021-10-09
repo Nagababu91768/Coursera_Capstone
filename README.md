@@ -14,8 +14,8 @@ This project intention to Predict different House type Prices in different state
      			``webapp1``,
      			``webapp2``,
      			``Deployment``,
-                         ``widget_tweaks``,
-                         ``crispy_forms``,  
+                        ``widget_tweaks``,
+                        ``crispy_forms``,  
    	            ]
     
 

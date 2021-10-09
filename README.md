@@ -14,17 +14,17 @@ This project intention to Predict different House type Prices in different state
      			``webapp1``,
      			``webapp2``,
      			``Deployment``,
-                        ``widget_tweaks``,
-                        ``crispy_forms``,  
+                         ``widget_tweaks``,
+                         ``crispy_forms``,  
    	            ]
     
 
 2. Include the every app URLconf in your project urls.py like this
-   ``bash
-      urlpatterns = [
-    			path('admin/', admin.site.urls),
-    			path('',include('Deployment.urls')),
-		     ]
+   `` bash
+	      urlpatterns = [
+				path('admin/', admin.site.urls),
+				path('',include('Deployment.urls')),
+			     ]
     
    ``
 

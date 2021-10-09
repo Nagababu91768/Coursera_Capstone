@@ -10,9 +10,9 @@ This project intention to Predict different House type Prices in different state
     
     INSTALLED_APPS = [
     
-     			``Deployment``,
-                       ``widget_tweaks``,
-                       ``crispy_forms``,  
+     			'Deployment',
+                       'widget_tweaks',
+                       'crispy_forms',  
    	            ]
     
 
